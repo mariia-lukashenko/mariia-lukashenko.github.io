@@ -60,6 +60,7 @@ Designed and built the company website for Dispetch Consulting end-to-end — fr
 A series of case analyses evaluating real-world economic situations and their business/policy implications. Upload as PDFs to `/writing/` and link each one here, e.g.:
 
 - [Creative Destruction and the Economic Impact of Artificial Intelligence] (/writing/case-study-1.pdf)
+- [Recession Risk in Emerging Markets](case-study-1.pdf)
 - [Case Study 2: Title](writing/case-study-2.pdf)
 
 ---
