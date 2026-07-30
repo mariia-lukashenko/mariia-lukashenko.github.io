@@ -20,30 +20,33 @@ This portfolio is a collection of projects, analyses, and written work that show
 
 ## Projects
 
-### 🌐 Dispetch Consulting — Company Website
-*Website designer & developer*
+### 🌐 G&G Cargo Dispetch Consulting — Website & Brand Development
 
-Designed and built the company website for Dispetch Consulting end-to-end — from information architecture and layout to the copy that communicates the firm's positioning to prospective clients.
+Designed and launched the company's website from concept to deployment, creating the site's structure, user experience, visual design, and content. In addition to the website, I lead the company's marketing efforts by managing social media, designing digital and print marketing materials, and supporting the overall brand strategy.
 
-- **Live site:** [https://gg-dsp.com/]
-- **Stack:** [add platform/tools, e.g., Webflow, WordPress, or HTML/CSS/JS]
-- **My role:** design, content structure, build, and launch
+Live Website: https://gg-dsp.com/
+
+Stack: Figma, Claude AI, HTML, CSS, JavaScript
+
+My Role: Website Design • UX/UI • Content Strategy • Front-End Development • Digital Marketing • Brand Assets
 
 ---
 
-### 🔒 PrivateAI — Concept & Beta Prototype
-*Founder / concept lead*
+🔒 PrivateAI — AI Platform & MVP
 
-**The problem:** organizations are racing to adopt generative AI, but most mainstream AI platforms are public — meaning sensitive company data can't safely be used to personalize or train these tools. This is a major adoption blocker for enterprises handling confidential or regulated data.
+Founder & Product Lead
 
-**The idea:** a privacy-first AI assistant where an organization's data is used to personalize its own AI instance, with no other user or the platform provider able to access that data. Think of it as AI personalization without data exposure.
+Built an AI platform concept focused on secure, organization-specific AI assistants that enable companies to leverage their internal knowledge without exposing sensitive data to public AI models. The project addresses one of the key barriers to enterprise AI adoption: privacy and confidential data protection.
 
-**What I built:** a working beta chatbot on top of the ChatGPT/OpenAI API to prove out the interaction model, plus a marketing website explaining the concept to prospective users and stakeholders.
+Designed the product strategy, user experience, and overall platform architecture, then developed a functional MVP powered by the OpenAI API to demonstrate personalized AI interactions. Created the marketing website, product messaging, and branding to communicate the platform's value proposition to potential users and stakeholders.
 
-> Note: this is an early-stage concept and beta prototype, not a production system — presented here as evidence of product thinking and initiative, not as a claim of deep AI engineering.
+Note: This project is an MVP demonstrating product vision, AI integration, and end-to-end execution. It is not intended to represent a production-scale enterprise AI platform.
 
-- **Site:** [add URL here]
-- **Stack:** [add tools — e.g., OpenAI API, Python/Node, no-code website builder]
+Website: [https://private-ai-2026.netlify.app/]
+
+Stack: OpenAI API, Python, HTML, CSS, JavaScript, Figma, Claude AI
+
+My Role: Product Strategy • AI Integration • Prompt Engineering • UX/UI Design • Front-End Development • Website Design • Branding
 
 ---
 
