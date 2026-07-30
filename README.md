@@ -10,7 +10,11 @@ Bachelor of Science in Economics, International Business & Management — Elmhur
 
 ## About
 
-I'm a data and business analyst who turns messy operational, marketing, and financial data into decisions leadership can act on. My experience spans enterprise process analysis at Miratech, marketing analytics at Elmhurst University, and operations/financial analytics at GEICO. This portfolio collects independent projects and written work that don't fit neatly into a resume bullet.
+I'm an early-career business professional passionate about solving problems through data, strategy, and technology. After leaving Ukraine because of the war, I built a new life in the United States, earning a degree from Elmhurst University while gaining hands-on experience across business analytics, project coordination, operations, and marketing.
+
+I enjoy exploring different areas of business because I believe the best solutions come from understanding how teams, processes, data, and people work together. Whether I'm analyzing operational metrics, improving workflows, coordinating projects, or translating data into business insights, I'm driven by curiosity, continuous learning, and creating meaningful impact.
+
+This portfolio is a collection of projects, analyses, and written work that showcase my interests beyond what fits on a one-page resume. It reflects not only the skills I've developed but also my commitment to keep learning, experimenting, and growing as I build my career.
 
 ---
 
