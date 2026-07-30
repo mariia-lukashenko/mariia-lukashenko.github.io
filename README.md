@@ -50,18 +50,43 @@ My Role: Product Strategy • AI Integration • Prompt Engineering • UX/UI De
 
 ---
 
-### 📊 Analytics & BI Work Samples
-*(pull 1–2 anonymized/sanitized examples if your employer/school allows it)*
+### 📊 Data & Financial Analysis
+## Projects
 
-- Power BI dashboard sample (screenshot or `.pbix` if shareable)
-- SQL query samples (CTEs, window functions, joins)
+## Chicago Airport Taxi Analysis
+Analyzed 1.3 million taxi trips using Google BigQuery and Excel to evaluate ridership patterns, payment trends, and company market share — found O'Hare drives 84% of airport pickups, with a 3.4:1 pickup-to-drop-off ratio.
+[View Presentation (PDF)](files/case-study-2-taxi-analysis.pdf)
+
+Pickup & Drop-off Dashboards (Excel)
+Built interactive Excel dashboards (pivot tables, slicers, 100+ charts) analyzing 1.3M+ Chicago airport taxi trips to uncover ridership, payment, and revenue trends across O'Hare and Midway.
+[Download Dashboard (XLSX)](files/pickup-dashboard.xlsx) · [Download Dashboard (XLSX)](files/drop-offs-dashboard.xlsx)
+
+## Enrollment Determinants Analysis (IPEDS Data)
+Analyzed 2019–2023 enrollment, demographic, and cost data across Elmhurst University's 10 peer institutions to identify enrollment drivers, delivering data-driven recommendations for recruitment and pricing strategy.
+[View Presentation (PDF)](files/case-study-3-enrollment.pdf)
+
+Power BI Visualizations
+Built Power BI visualizations translating IPEDS enrollment data into comparative institutional trends supporting the enrollment analysis above.
+[Download Report (PBIX)](files/graphs-powerbi.pbix)
+
+## Corsa BSG Strategy Simulation
+Led industry and competitive analysis (Porter's Five Forces, SWOT) for a footwear company strategy simulation, helping guide the team to the #1 ranking on investor expectations and overall performance.
+[View Presentation (PDF)](files/corsa-bsg-strategy.pdf)
+
+## Blue Apron Strategic Analysis
+Co-authored a strategic analysis of Blue Apron's business model, leadership transitions, and market positioning following its 2023 acquisition by Wonder Group.
+[View Paper (PDF)](files/blue-apron-analysis.pdf)
 
 ---
 
 ## Written Work
 
 ### Honors Political Science Essay
-[Add title] — an honors-program essay on [topic]. Upload the PDF to this repo (`/writing/political-essay.pdf`) and link it here.
+Patriotism of the Party: Polarization and the Gradual Erosion of American Democracy
+
+An Honors research paper examining how political polarization, economic inequality, the two-party system, and social media interact to erode democratic norms in the contemporary United States. Synthesizes political science literature (Levitsky & Ziblatt, Bermeo, Iyengar et al.) into a structured causal argument, examining concepts such as affective polarization, institutional forbearance, and civic trust.
+
+(`/writing/political-essay.pdf`)
 
 ### Economic Critical Incident Case Studies
 A series of case analyses evaluating real-world economic situations and their business/policy implications. Upload as PDFs to `/writing/` and link each one here, e.g.:
