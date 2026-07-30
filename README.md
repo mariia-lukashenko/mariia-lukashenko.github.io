@@ -2,7 +2,7 @@
 
 Data & Business Analyst | SQL · Power BI · Excel · Generative AI
 
-Bachelor of Science in Economics, International Business & Management — Elmhurst University (Expected May 2026, GPA 3.9, Honors Program Global Scholar)
+Bachelor of Science in Economics, International Business & Operations Management — Elmhurst University (Expected May 2026, GPA 3.9, Honors Program Global Scholar)
 
 📧 lukashenkoaria@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/mariia-lukashenko)
 
