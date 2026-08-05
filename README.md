@@ -102,7 +102,7 @@ A series of case analyses evaluating real-world economic situations and their bu
 
 ## Skills
 
-**Data & BI:** SQL (joins, CTEs, window functions, subqueries) · Power BI (data modeling, DAX, dashboards) · Advanced Excel · Tableau · Data Storytelling
+**Data & BI:** SQL (joins, CTEs, window functions, subqueries) · Power BI (data modeling, DAX, dashboards) · Advanced Excel · Tableau · Data Storytelling · R
 
 **AI:** Prompt Engineering · Generative AI (ChatGPT/OpenAI API) · AI-Assisted Analysis & Research
 
