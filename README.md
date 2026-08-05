@@ -50,6 +50,20 @@ My Role: Product Strategy • AI Integration • Prompt Engineering • UX/UI De
 
 ---
 
+## Written Work
+
+### Economic Critical Incident Case Studies
+A series of case analyses evaluating real-world economic situations and their business/policy implications. Upload as PDFs to `/writing/` and link each one here, e.g.:
+
+- [Creative Destruction and the Economic Impact of Artificial Intelligence] (/writing/case-study-1.pdf)
+- [Case Study 2: Title](Critical Incident - 2008 Financial Crisis.pdf)
+- [Case Study 2: Title](Critical Incident - AI.pdf)
+- [Case Study 2: Title](Critical Incident - Climate Change.pdf)
+- [Case Study 2: Title](Critical Incident - EU:UK.pdf)
+- [Case Study 2: Title](Critical Incident - Intel.pdf)
+
+---
+
 ## 📊 Data & Financial Analysis
 ### Projects
 
@@ -76,27 +90,6 @@ Led industry and competitive analysis (Porter's Five Forces, SWOT) for a footwea
 #### Blue Apron Strategic Analysis
 Co-authored a strategic analysis of Blue Apron's business model, leadership transitions, and market positioning following its 2023 acquisition by Wonder Group.
 [View Paper (PDF)](files/blue-apron-analysis.pdf)
-
----
-
-## Written Work
-
-### Honors Political Science Essay
-Patriotism of the Party: Polarization and the Gradual Erosion of American Democracy
-
-An Honors research paper examining how political polarization, economic inequality, the two-party system, and social media interact to erode democratic norms in the contemporary United States. Synthesizes political science literature (Levitsky & Ziblatt, Bermeo, Iyengar et al.) into a structured causal argument, examining concepts such as affective polarization, institutional forbearance, and civic trust.
-
-(`/writing/political-essay.pdf`)
-
-### Economic Critical Incident Case Studies
-A series of case analyses evaluating real-world economic situations and their business/policy implications. Upload as PDFs to `/writing/` and link each one here, e.g.:
-
-- [Creative Destruction and the Economic Impact of Artificial Intelligence] (/writing/case-study-1.pdf)
-- [Case Study 2: Title](Critical Incident - 2008 Financial Crisis.pdf)
-- [Case Study 2: Title](Critical Incident - AI.pdf)
-- [Case Study 2: Title](Critical Incident - Climate Change.pdf)
-- [Case Study 2: Title](Critical Incident - EU:UK.pdf)
-- [Case Study 2: Title](Critical Incident - Intel.pdf)
 
 ---
 
