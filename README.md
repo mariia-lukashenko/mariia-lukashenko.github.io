@@ -92,8 +92,11 @@ An Honors research paper examining how political polarization, economic inequali
 A series of case analyses evaluating real-world economic situations and their business/policy implications. Upload as PDFs to `/writing/` and link each one here, e.g.:
 
 - [Creative Destruction and the Economic Impact of Artificial Intelligence] (/writing/case-study-1.pdf)
-- [Recession Risk in Emerging Markets](case-study-1.pdf)
-- [Case Study 2: Title](writing/case-study-2.pdf)
+- [Case Study 2: Title](Critical Incident - 2008 Financial Crisis.pdf)
+- [Case Study 2: Title](Critical Incident - AI.pdf)
+- [Case Study 2: Title](Critical Incident - Climate Change.pdf)
+- [Case Study 2: Title](Critical Incident - EU:UK.pdf)
+- [Case Study 2: Title](Critical Incident - Intel.pdf)
 
 ---
 
